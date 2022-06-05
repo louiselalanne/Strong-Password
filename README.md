@@ -3,6 +3,7 @@
 <p align="justify">
 Passwords provide the first line of defense against unauthorized access to your computer and personal information. The stronger your password, the more protected your computer will be from hackers and malicious software. You should maintain strong passwords for all accounts on your computer. This is a project about a password creator application with 10 caratceres, consisting of 6 random letters, 2 random numbers and 2 symbols.
   <br>
+  <br>
   Goals:
   <br>
 Create a GUI application of Password Generator using 3D arrays. 
